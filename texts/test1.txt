@@ -1,1 +1,1 @@
-This is just a test to test how efficient is the huffman compression algorithm.
+Hello world
